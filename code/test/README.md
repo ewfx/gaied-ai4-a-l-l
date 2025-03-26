@@ -1,3 +1,5 @@
+from .src.emailclassify import process_email
+
 # Example Usage
 if __name__ == "__main__":
     sample_email = """
